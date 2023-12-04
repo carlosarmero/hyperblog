@@ -43,3 +43,8 @@ body
 {
     padding: 1em;
 }
+
+#footer{
+    background-color: fuchsia;
+    color: black;
+}
